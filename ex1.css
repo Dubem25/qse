@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 400px;
+    width: 200px;
+    background-color: #ebebeb;
+    border: 5px;
+    margin: 10px;
+    padding: 20px;
+    display: inline-table;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    border-style: hidden;
+    position: relative;
+}
+
+.body{
+    padding-top: 40px;
+}
+
+h2{
+    padding-top: 10px;
+}
+
+h1{
+    font-weight: 300;
+    font-size: 40px;
+}
